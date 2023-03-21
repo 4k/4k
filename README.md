@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://github.com/4k/4k/blob/main/assets/Astronaut.png" height="32" /> Sup, I'm <a href="https://github.com/4k/" target="_blank">4k</a> <img src="https://github.com/4k/4k/blob/main/assets/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" height="32" /></h1>
 <br />
 <br />
-I'm a Software Engineer & Entrepreneur from Austria and I build tools for better tomorrow. Aerial robotics, AI, computer vision, space, smart cities, science and tech.
+<p align="center">I'm a Software Engineer & Entrepreneur and I build tools for better tomorrow. <br />Aerial robotics, AI, computer vision, space, smart cities, science and tech. </p>
+<br />
 <br />
 <br />
 <div>
