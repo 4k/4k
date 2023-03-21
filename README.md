@@ -12,16 +12,13 @@ I'm a Software Engineer & Entrepreneur from Austria and I build tools for better
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Cricket.png" height="32" />
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Worm.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Fly.png" height="32" />
-  <img align="left" src="https://github.com/4k/4k/blob/main/assets/Honeybee.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Lady Beetle.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Mosquito.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Spider.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Ant.png" height="32" />
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Beetle.png" height="32" />
-  <img align="left" src="https://github.com/4k/4k/blob/main/assets/Butterfly.png" height="32" />
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Cockroach.png" height="32" />
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Cricket.png" height="32" />
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Worm.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Fly.png" height="32" />
-  <img align="left" src="https://github.com/4k/4k/blob/main/assets/Spider.png" height="32" />  
 </div>
