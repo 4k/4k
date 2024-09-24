@@ -23,4 +23,4 @@
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Worm.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Fly.png" height="32" />
 </div>
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=_4k_)](https://www.last.fm/user/_4k_)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=_4k_)
