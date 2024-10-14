@@ -23,5 +23,5 @@
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Worm.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Fly.png" height="32" />
 </div>
-[![](https://lastfm-recently-played.vercel.app/api?user=_4k_&count=3&width=375)](https://www.last.fm/user/_4k_)
-![lastfm](https://lastfm-recently-played.vercel.app/api?user=_4k_)
+<div><img src-"https://lastfm-recently-played.vercel.app/api?user=_4k_" /></div>
+![](https://svg-github-readme.vercel.app/api?type=animated_text&text=helloworld&color=161A30&font_size=100&font_family=Arial)
