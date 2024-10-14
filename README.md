@@ -4,6 +4,7 @@
 <p align="center">I'm a Software Engineer & Entrepreneur and I build tools for better tomorrow. <br />Aerial robotics, AI, computer vision, space, smart cities, science and tech. </p>
 <br />
 <br />
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=_4k_)](https://www.last.fm/user/_4k_)
 <br />
 <div>
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Ant.png" height="32" />
