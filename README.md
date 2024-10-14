@@ -23,3 +23,4 @@
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Worm.png" height="32" />  
   <img align="left" src="https://github.com/4k/4k/blob/main/assets/Fly.png" height="32" />
 </div>
+[![](https://spotify-recently-played-readme.vercel.app/api?user=_4k_&count=3&width=375)](https://www.last.fm/user/_4k_)
