@@ -35,5 +35,5 @@
 <div align="center">
 <br />
   
-  [![](https://lastfm-recently-played.vercel.app/api?user=_4k_&width=400)](https://lastfm-recently-played.vercel.app/api?user=_4k_)
+  [![](https://lastfm-recently-played.vercel.app/api?user=_4k_&width=300)](https://lastfm-recently-played.vercel.app/api?user=_4k_)
   <img align="right" alt="GIF" src="https://github.com/4k/4k/blob/main/assets/illustration-coding.jpg" width="500" height="333" />
